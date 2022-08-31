@@ -3,6 +3,14 @@
 
  /*Algoritmo:
   1º: solicitar o custo de fábrica e a porcentagem do distribuidor e dos impostos
-  2º: somar os valores dados
+  2º cc = cf + (pd*cf)/100 + (pi*cf)/100
   3º: exibir resultado*/
+#include <stdio.h>
+void main ()
+{
+ 
 
+ 
+ 
+
+}
