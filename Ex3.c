@@ -8,7 +8,7 @@
  2º se homem, usar formula e exibir resultado
  3º se mulher, usar formula e exibir resultado */
 
- #include <stdio.h>
+ #include <stdio.h> //essa versão ñ funciona
  void main ()
  {
   char g, F, H;
@@ -29,7 +29,7 @@
            printf("%d", HH2); }
  }
 
-/* TESTES
+/* TESTES //essa versão funciona
  #include <stdio.h>
  void main ()
  {
